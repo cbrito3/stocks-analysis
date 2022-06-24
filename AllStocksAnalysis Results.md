@@ -12,6 +12,13 @@ The results when we run the stock analysis for each year shows the yearly return
 ### The analysis is well described with screenshots and code
 
 Based on the codes for each year, the screenshots prove how many times the code ran for each year.   
+![VBA_Challenge_Original_2017](https://user-images.githubusercontent.com/107222716/175464950-6a820e81-29e7-4d4e-9bea-5f30356424d9.png)
+
+![VBA_Challenge_Refactored_2017](https://user-images.githubusercontent.com/107222716/175465001-3059645e-f6ea-4e8e-b265-1a009fbcda66.png)
+
+![VBA_Challenge_Original_2018](https://user-images.githubusercontent.com/107222716/175465019-fbe7a1c3-3bf7-424a-b46b-a0a64b95d1fe.png)
+
+![VBA_Challenge_Refactored_2018](https://user-images.githubusercontent.com/107222716/175465048-3c003e2c-d1ae-483c-b4a5-049c830850f2.png)
 
 
 ## Summary  
