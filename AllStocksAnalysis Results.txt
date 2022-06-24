@@ -1,0 +1,23 @@
+# VBA_Challenge with Excel
+
+## Overview of Project
+The overview of the project is to help Steve analyze the green stock data for multiple stock market for years 2017 and 2018. Using the VBA application in Excel, our goal is to find the total daily volume and the annual result for each of stock, in this case 12.
+
+### Purpose
+The overall purpose of the project is to help Steve find an efficient way to analyze each stock market for years 2017 and 2018 based on the daily volume and results. After running the original script for each stock and year refactoring the code for a cleaner and simpler analysis was the best option. 
+
+## Results
+The results when we run the stock analysis for each year shows the yearly return in percentages based on the increase or decrease in price from the beginning of each year to the end of that same year. For each year the results show how much return you receive for each investment.
+
+### The analysis is well described with screenshots and code
+
+Based on the codes for each year, the screenshots prove how many times the code ran for each year.   
+
+
+## Summary  
+
+### There is a detailed statement on the advantages and disadvantages of refactoring code in general 
+One the the advantages of refactoring code is that you can make the code cleaner, efficient and look simpler. Is always better to save the original code in case we missing any important information in my code. 
+
+### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
+Refactoring code can allow you to use different codes and always look for better and more efficient alternatives; however, you might not always know add the correct information and bug messages might appear. The original code is a good start to see if you can make your code more efficient
